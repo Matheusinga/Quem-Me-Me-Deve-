@@ -1,0 +1,6 @@
+{
+  "name": "Devo ou Recebo",
+  "description": "Aplicativo para controle de dívidas com gráficos de confiabilidade de devedores, lembretes de vencimento e busca avançada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
